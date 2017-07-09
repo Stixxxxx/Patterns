@@ -1,0 +1,19 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Customize your theme here. -->
+
+    </style>
+    <string name="hello">
+<![CDATA[
+<html>
+<head></head>
+<body style="text-align:justify;color:gray;background-color:black;">
+Я строка, я ничего не хочу делать. Я хочу быть выровненой по ширине.
+</body>
+</html>
+]]>
+</string>
+
+</resources>
