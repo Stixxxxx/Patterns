@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vladimir\.android\build-cache\8ddeeb410d27f36e3c1b575dbc68a330fb568cc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="E:\ProgectAndroid\DropBox\app\build\intermediates\pre-dexed\debug\classes_a322f5701b2bb09776c698fc31b4725163fa2b61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vladimir\.android\build-cache\2f84a3e0c5fb6e2c8e6d9a1786915cc9aae50f15\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="E:\ProgectAndroid\DropBox\app\build\intermediates\pre-dexed\debug\classes_7a4d1c6a1dd94fe1a5199bf97b9243a15d7e53e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vladimir\.android\build-cache\131457ca30690e1c38fd4b01af5f266abd12c8a0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="E:\ProgectAndroid\DropBox\app\build\intermediates\pre-dexed\debug\classes_a0755640bca07f04fcfc2439e720a7be95dc1748.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vladimir\.android\build-cache\1c71189d1e450f0238114ed7995138a9c5ca13d6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="E:\ProgectAndroid\DropBox\app\build\intermediates\pre-dexed\debug\classes_4ecb39f2575cb3718489462308ad42a8131a5153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vladimir\.android\build-cache\0567e26203ccb8c7ab31ba5e866c659df8314bc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="E:\ProgectAndroid\DropBox\app\build\intermediates\pre-dexed\debug\classes_ca880559515060b6deb3ea546ec2860d5926e917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Vladimir\.android\build-cache\d1804b95cc00dbfcb9b9dc7a2dadb99d6ca3413f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="E:\ProgectAndroid\DropBox\app\build\intermediates\pre-dexed\debug\classes_7687742ade6d8491c154d722cf391f86a4e51f05.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Drive</string>
+    <string name="btnSignIn">Sign in</string>
+    <string name="cancelAuth">Завершить авторизацию</string>
+    <string name="btnEnter">Нажмите кнопку войти</string>
+    <string name="tvAccountInfo">
+
+
+    </string>
+    <string name="banner_ad_unit_id">ca-app-pub-5213968678812167/2820655533</string>
+</resources>
