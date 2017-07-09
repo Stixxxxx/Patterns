@@ -1,0 +1,290 @@
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe.config
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\bin\Debug\Weather.pdb
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\MainWindow.g.cs
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\App.g.cs
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather_MarkupCompile.cache
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather_MarkupCompile.lref
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\MainWindow.baml
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather.g.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather.exe
+C:\Users\Владимир\Documents\Visual Studio 2015\Projects\Weather\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+D:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\bin\Debug\Weather.exe.config
+D:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\Weather.exe
+D:\учеба\уроки\025 Сервер-Гаджет Погода\Weather\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather — копия\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather3\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather4 новый сервис погоды\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый сервис погоды\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather5 новый разные методы\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather6\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather7\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather8\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather9\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\bin\Debug\Newtonsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather10\Weather\bin\Debug\Newtonsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\bin\Debug\Newtonsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\bin\Debug\Newtonsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather11\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Weather.exe.config
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Microsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Microsoft.Server.Common.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Newtonsoft.Json.dll
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Microsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Newtonsoft.Json.xml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\MainWindow.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Settings.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\App.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather_MarkupCompile.cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather_MarkupCompile.lref
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\MainWindow.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Settings.baml
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.g.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.Properties.Resources.resources
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.exe
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.pdb
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Error.g.cs
+G:\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Error.baml
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Weather.exe.config
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Weather.exe
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Weather.pdb
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Microsoft.Json.dll
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Microsoft.Server.Common.dll
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Newtonsoft.Json.dll
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Microsoft.Json.xml
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\bin\Debug\Newtonsoft.Json.xml
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.csprojResolveAssemblyReference.cache
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Error.g.cs
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\MainWindow.g.cs
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Settings.g.cs
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\App.g.cs
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather_MarkupCompile.cache
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather_MarkupCompile.lref
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Error.baml
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\MainWindow.baml
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Settings.baml
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.g.resources
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.Properties.Resources.resources
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.csproj.GenerateResource.Cache
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.exe
+E:\Learning\VisualStudio\учеба\уроки\025 Сервер-Гаджет Погода\Weather12\Weather\obj\Debug\Weather.pdb

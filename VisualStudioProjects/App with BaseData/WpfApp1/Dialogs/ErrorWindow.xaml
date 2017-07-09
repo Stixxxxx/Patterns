@@ -1,0 +1,14 @@
+﻿<Window x:Class="WpfApp1.Dialogs.ErrorWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1.Dialogs"
+        mc:Ignorable="d"
+        Title="Error" Height="300" Width="300" ResizeMode="CanMinimize">
+    <Grid>
+        <Button Content="Ок" HorizontalAlignment="Left" Margin="109,190,0,0" VerticalAlignment="Top" Width="75" Click="Button_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="74,78,0,0" TextWrapping="Wrap" Text="Пользователь сущестует" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
