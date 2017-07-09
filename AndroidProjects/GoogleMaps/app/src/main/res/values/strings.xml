@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Maps</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="test">Режим карты</string>
+    <string name="Компас">Компас</string>
+    <string name="доступ">Доступ</string>
+</resources>
