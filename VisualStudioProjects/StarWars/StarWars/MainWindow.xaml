@@ -1,0 +1,23 @@
+﻿<Window x:Class="StarWars.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:StarWars"
+        mc:Ignorable="d"
+        Title="Star Wars" Height="350" Width="800" Name="MW">
+    <Grid>
+        <TextBlock Text="Star Wars" HorizontalAlignment="Center" VerticalAlignment="Top" />
+        <Button Content="Search" VerticalAlignment="Top" Click="Button_Click" HorizontalAlignment="Right" Width="91" Margin="0,0,107,0" />
+        <TextBox Name ="SearchTb" HorizontalAlignment="Right" VerticalAlignment="Top" Text="" Width="93"/>
+        <ScrollViewer Margin="0,27,237,0">
+            <StackPanel Name="StackPanel">
+                <ListView Name="ListBooksLv">
+
+                </ListView>
+            </StackPanel>
+        </ScrollViewer>
+        <Image Name="CoverImage" Height="293" Margin="0,27,0,0" VerticalAlignment="Top" HorizontalAlignment="Right" Width="232" />
+
+    </Grid>
+</Window>
