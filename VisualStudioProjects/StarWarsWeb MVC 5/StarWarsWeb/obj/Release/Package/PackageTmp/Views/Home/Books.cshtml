@@ -1,0 +1,33 @@
+﻿@model IEnumerable<StarWarsWeb.Models.Book>
+@{
+    ViewBag.Title = "Книги";
+}
+<p>
+</p>
+<table class="table">
+    <tr>
+        <th>
+            <a>Номер</a>
+        </th>
+        <th>
+          <a>Название книги</a>
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.name)
+            </td>
+            <td>
+                <p><a href="~/Home/DownloadFile?idBook=@item.id">Скачать</a></p>
+            </td>
+        </tr>
+    }
+
+</table>
