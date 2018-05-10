@@ -2,6 +2,8 @@
 @{
     ViewBag.Title = "Книги";
 }
+<h2>@ViewBag.Title</h2>
+
 <p>
 </p>
 <table class="table">
@@ -10,7 +12,7 @@
             <a>Номер</a>
         </th>
         <th>
-          <a>Название книги</a>
+            <a>Название книги</a>
         </th>
         <th></th>
     </tr>
@@ -25,7 +27,7 @@
                 @Html.DisplayFor(modelItem => item.name)
             </td>
             <td>
-                <p><a href="~/Home/DownloadFile?idBook=@item.id">Скачать</a></p>
+                <p><a href="~/Home/DownloadFile?path=@System.Uri.EscapeDataString(item.path)">Скачать</a></p>
             </td>
         </tr>
     }

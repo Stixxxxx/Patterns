@@ -20,7 +20,6 @@ E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\roslyn\Microsoft.DiaSymRead
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\roslyn\Microsoft.Win32.Primitives.dll
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\roslyn\System.AppContext.dll
-E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\roslyn\System.Collections.Immutable.dll
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\roslyn\System.Console.dll
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\roslyn\System.Diagnostics.Process.dll
@@ -90,7 +89,15 @@ E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\Microsoft.AI.DependencyColl
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\Microsoft.AI.WindowsServer.xml
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\Microsoft.AI.Web.xml
-E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Release\StarWarsWeb.csproj.CoreCompileInputs.cache
-E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Release\StarWarsWeb.csproj.CopyComplete
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Release\StarWarsWeb.dll
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Release\StarWarsWeb.pdb
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\Dropbox.Api.dll
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\RestSharp.dll
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\Dropbox.Api.xml
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\RestSharp.xml
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Release\StarWarsWeb.csprojResolveAssemblyReference.cache
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\EntityFramework.dll
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\EntityFramework.SqlServer.dll
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\EntityFramework.xml
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\EntityFramework.SqlServer.xml

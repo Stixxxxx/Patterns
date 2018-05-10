@@ -89,9 +89,6 @@ E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\Microsoft.AI.DependencyColl
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\Microsoft.AI.ServerTelemetryChannel.xml
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\Microsoft.AI.WindowsServer.xml
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\Microsoft.AI.Web.xml
-E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Debug\StarWarsWeb.csprojResolveAssemblyReference.cache
-E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Debug\StarWarsWeb.csproj.CoreCompileInputs.cache
-E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Debug\StarWarsWeb.csproj.CopyComplete
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Debug\StarWarsWeb.dll
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Debug\StarWarsWeb.pdb
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\RestSharp.dll
@@ -103,3 +100,4 @@ E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\EntityFramework.dll
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\EntityFramework.SqlServer.dll
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\EntityFramework.xml
 E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\bin\EntityFramework.SqlServer.xml
+E:\Program\Temp\Projects\StarWarsWeb\StarWarsWeb\obj\Debug\StarWarsWeb.csprojResolveAssemblyReference.cache
