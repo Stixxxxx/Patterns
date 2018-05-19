@@ -1,0 +1,58 @@
+﻿<!DOCTYPE html>
+<html>
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - Star Wars</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <script type="text/javascript" src="~/Scripts/myscripts.js"></script>
+    <script type="text/javascript">ready()</script>
+    
+
+    
+
+</head>
+
+<body onload="Loaded();">
+<div id="loading" style="position:fixed; left:50%; top:50%; margin-left:-65px; margin-top:-25px; display: none"><img src="/Image/loading.gif"></div>
+    
+ 
+
+<div class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            @Html.ActionLink("Star Wars", "Index", "Home", new {area = ""}, new {@class = "navbar-brand"})
+        </div>
+        <div class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+                <li>@Html.ActionLink("About", "About", "Home")</li>
+                <li onclick="Show()" class="loading">@Html.ActionLink("Books", "Books", "Home")</li>
+
+                <li>@Html.ActionLink("Models", "Models", "Home")</li>
+                <li>@Html.ActionLink("Comments", "Comments", "Home")</li>
+                <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="modal"></div>
+<div class="container body-content">
+    @RenderBody()
+    <hr/>
+    <footer>
+        <p>&copy; @DateTime.Now.Year - Владимир Ковалевич</p>
+    </footer>
+</div>
+@Scripts.Render("~/bundles/jquery")
+@Scripts.Render("~/bundles/bootstrap")
+
+</body>
+
+</html>
+<script type="text/javascript">Loaded()</script>
