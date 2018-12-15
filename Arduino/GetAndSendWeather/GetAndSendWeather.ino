@@ -8,6 +8,7 @@ DHT dht(D2, DHT11); // сообщаем на каком порту будет д
 
 #include <ArduinoJson.h> 
 #include <ESP8266WiFi.h>
+
  
 
 
