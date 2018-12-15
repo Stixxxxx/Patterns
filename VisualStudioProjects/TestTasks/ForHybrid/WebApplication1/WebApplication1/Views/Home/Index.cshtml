@@ -1,0 +1,16 @@
+﻿<div class="jumbotron">
+    <h1>Welcome</h1>
+    <p class="lead">Thank you for visiting my website.</p>
+    <p>
+        Our service provides data on IP addresses.
+    </p>
+
+    <p>
+        To get data you need to type in the address bar
+        @String.Format("{0}://{1}/api/Ips/ ip in format Number-Number-Number-Number", Request.Url.Scheme, Request.Url.Authority).
+        <br>
+        Example:
+        <a href="@String.Format("{0}://{1}/api/Ips/5-18-97-179", Request.Url.Scheme, Request.Url.Authority)">@String.Format("{0}://{1}/api/Ips/5-18-97-179", Request.Url.Scheme, Request.Url.Authority)</a>
+    </p>
+</div>
+
