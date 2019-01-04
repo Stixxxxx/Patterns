@@ -1,0 +1,15 @@
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\bin\Debug\Game2.exe.config
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\bin\Debug\Game2.exe
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\bin\Debug\Game2.pdb
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\MainWindow.g.cs
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\App.g.cs
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\Game2_MarkupCompile.cache
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\Game2_MarkupCompile.lref
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\MainWindow.baml
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\Game2.g.resources
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\Game2.Properties.Resources.resources
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\Game2.csproj.GenerateResource.cache
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\Game2.csproj.CoreCompileInputs.cache
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\Game2.exe
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\Game2.pdb
+F:\Programs\VisualStudio\Тестовые Задания\СимРэйл\Game2\Game2\obj\Debug\Game2.csprojAssemblyReference.cache
