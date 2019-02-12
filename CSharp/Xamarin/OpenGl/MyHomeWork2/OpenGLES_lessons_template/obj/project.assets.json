@@ -480,11 +480,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Programs\\Lessons\\OpenGl\\Денис\\MyHomeWork2\\OpenGLES_lessons_template\\OpenGLES_lessons_template.csproj",
+      "projectUniqueName": "F:\\Programs\\GitHub\\Patterns\\CSharp\\Xamarin\\OpenGl\\MyHomeWork2\\OpenGLES_lessons_template\\OpenGLES_lessons_template.csproj",
       "projectName": "OpenGLES_lessons_template",
-      "projectPath": "F:\\Programs\\Lessons\\OpenGl\\Денис\\MyHomeWork2\\OpenGLES_lessons_template\\OpenGLES_lessons_template.csproj",
+      "projectPath": "F:\\Programs\\GitHub\\Patterns\\CSharp\\Xamarin\\OpenGl\\MyHomeWork2\\OpenGLES_lessons_template\\OpenGLES_lessons_template.csproj",
       "packagesPath": "C:\\Users\\Vladimir\\.nuget\\packages\\",
-      "outputPath": "F:\\Programs\\Lessons\\OpenGl\\Денис\\MyHomeWork2\\OpenGLES_lessons_template\\obj\\",
+      "outputPath": "F:\\Programs\\GitHub\\Patterns\\CSharp\\Xamarin\\OpenGl\\MyHomeWork2\\OpenGLES_lessons_template\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "configFilePaths": [
