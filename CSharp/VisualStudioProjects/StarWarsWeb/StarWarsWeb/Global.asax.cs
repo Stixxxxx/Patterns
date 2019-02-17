@@ -48,9 +48,9 @@ namespace StarWarsWeb
             
             //Database.SetInitializer<UserDataContext>(null);
             
-                User user = new User() { ip = ip, country = location, browser = userAgent, time = DateTime.Now};
-                db.Users.Add(user);
-                db.SaveChanges();
+                //User user = new User() { ip = ip, country = location, browser = userAgent, time = DateTime.Now};
+                //db.Users.Add(user);
+                //db.SaveChanges();
             
 
         }

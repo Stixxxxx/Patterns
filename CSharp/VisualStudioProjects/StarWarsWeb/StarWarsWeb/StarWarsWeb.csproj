@@ -121,7 +121,7 @@
       <HintPath>..\packages\Microsoft.AspNet.WebPages.3.2.3\lib\net45\System.Web.WebPages.Razor.dll</HintPath>
     </Reference>
     <Reference Include="ubs.GEOBazaApi">
-      <HintPath>C:\Users\Vladimir\Desktop\geobaza-dotnet-api-1.0 (1)\ubs.GEOBazaApi\bin\Debug\ubs.GEOBazaApi.dll</HintPath>
+      <HintPath>..\packages\ubs.GEOBazaApi.dll</HintPath>
     </Reference>
     <Reference Include="WebGrease">
       <Private>True</Private>
@@ -260,7 +260,7 @@
           <AutoAssignPort>True</AutoAssignPort>
           <DevelopmentServerPort>55338</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>http://localhost:80/</IISUrl>
+          <IISUrl>http://localhost:1025/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
